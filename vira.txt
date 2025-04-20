@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name | Graphic Designer & Video Editor</title>
+  <style>
+    :root {
+      --primary-color: #0077ff;
+      --dark-color: #1e1e1e;
+      --light-color: #f4f4f4;
+      --text-color: #333;
+      --transition: all 0.3s ease-in-out;
+      font-size: 16px;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #fff;
+      color: var(--text-color);
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c
